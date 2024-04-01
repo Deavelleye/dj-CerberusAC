@@ -1,4 +1,4 @@
 sphinx==7.2.6
-sphinx-rtd-theme==0.2.4
+sphinx-rtd-theme==2.0.0
 Django==1.11.5
 -e .
