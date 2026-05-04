@@ -1,4 +1,4 @@
 sphinx==9.1.0
 sphinx-rtd-theme==3.1.0
-Django==1.11.5
+Django==6.0.4
 -e .
